@@ -51,4 +51,4 @@ pnpm test
 
 ## License
 
-Not yet licensed — all rights reserved until a `LICENSE` is added.
+[MIT](LICENSE) © 2026 Hinsane5
