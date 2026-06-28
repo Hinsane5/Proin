@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js
+.next/
+out/
+build/
+next-env.d.ts
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+
+# Prisma
+prisma/*.db
+prisma/*.db-journal
+
+# Testing
+coverage/
+playwright-report/
+test-results/
+.playwright/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Vercel
+.vercel
